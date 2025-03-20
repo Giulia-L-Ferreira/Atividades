@@ -33,6 +33,8 @@ public class Atividade3 {
 		}
 		
 		System.out.printf("O salário será R$%.2f" , salario);
+	
+		
 		
 	}
 

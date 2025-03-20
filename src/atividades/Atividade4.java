@@ -31,6 +31,8 @@ public class Atividade4 {
 		System.out.printf("A diferença do produto desses números é %.1f" , produto);
 
 		
+		
+		
 	}
 
 }

@@ -23,6 +23,8 @@ Scanner ler = new Scanner(System.in);
 		
 		System.out.printf("Você receberá R$%.2f" , salario);
 
+		
+		
 	}
 
 }
